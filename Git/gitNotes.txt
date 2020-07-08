@@ -1,0 +1,3 @@
+This message, intended to be after the intro paragraph, is meant to test my ability to measure how git tracks changes in an existing file.
+
+This is a test to summarize everything I have recently learned. Specifically testing my ability to: First create a directory folder, then initialize a git repository in this directory, then create a text file to upload into this repository, then save changes by adding them and them commiting them, then verifying my steps, and finally to make sure I did everything correctly.

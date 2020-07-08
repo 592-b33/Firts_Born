@@ -1,0 +1,4 @@
+I have learned what Vim looks/works in a "big picture" sense. 
+I have learned some command for vim that involve how to exit vim, how to save a file & name it, how to navigate through modes of vim
+how to enter into a file and edit it. I have not yet learned how to use external files in this program but will soon learn. 
+
